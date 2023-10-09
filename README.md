@@ -36,6 +36,15 @@ input id barang dan jumlah yang ingin dibeli dan akan muncul total harga nya
 #FLOWCHART
 ![postest 2 flowchart drawio (3)](https://github.com/muhammadDaffaEzraPutra/postest2/assets/145997425/2e5a8ed1-657b-448d-9d8a-03a510563850)
 
+<img width="960" alt="Screenshot 2023-10-10 014707" src="https://github.com/muhammadDaffaEzraPutra/postest2/assets/145997425/b62993ec-2dc4-4eb1-a1cb-255426b5d82a">
+<img width="960" alt="Screenshot 2023-10-10 014725" src="https://github.com/muhammadDaffaEzraPutra/postest2/assets/145997425/0d113dcb-fcf6-424d-adc5-d8a359afe6d9">
+<img width="960" alt="Screenshot 2023-10-10 014738" src="https://github.com/muhammadDaffaEzraPutra/postest2/assets/145997425/ddf33fe1-63a9-4f11-acea-e7b513faed40">
+<img width="960" alt="Screenshot 2023-10-10 014756" src="https://github.com/muhammadDaffaEzraPutra/postest2/assets/145997425/f6ccc526-356c-4946-ac14-2be3062ccb51">
+<img width="960" alt="Screenshot 2023-10-10 014809" src="https://github.com/muhammadDaffaEzraPutra/postest2/assets/145997425/3cd1f05a-02bd-4419-9860-d0d087afdf54">
+<img width="960" alt="Screenshot 2023-10-10 014823" src="https://github.com/muhammadDaffaEzraPutra/postest2/assets/145997425/b32a3e41-4413-4c37-b83d-7d6f2159eee4">
+<img width="960" alt="Screenshot 2023-10-10 014833" src="https://github.com/muhammadDaffaEzraPutra/postest2/assets/145997425/f1edce76-7ac6-4c17-a0e6-ee9a5362e0f3">
+
+
 
 
 
